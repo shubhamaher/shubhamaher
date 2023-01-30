@@ -9,11 +9,9 @@
 ###
 ![](https://komarev.com/ghpvc/?username=your-github-shubhamaher&color=blueviolet)
 
-   🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, Python, Java, Cloud, RPA.
+   🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine     learning, Python, Java, Cloud, RPA. Keen about exploring opportunities, also open for collaborations!
 
-   🏅 Keen about exploring opportunities in the field of research and development in computer science-related technologies, also open for collaborations! 
-
-   🌈 Let's stay in touch via [LinkedIn](https://www.linkedin.com/in/shubhamaher/)
+   ⚡️ Let's stay in touch via [LinkedIn](https://www.linkedin.com/in/shubhamaher/)
   
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shubhamaher&show_icons=true&theme=cobalt&count_private=true)-->
