@@ -1,8 +1,5 @@
-<!-- # <div align="center">  Hi there 👋 </div>
- ## <div align="center"> I am [Rutuja Kawade](https://rutujakawade.netlify.app/) from India :india: </div>-->
-<!--![A passionate programmer who is keen about exploring opportunities from India.](https://github.com/shubhamaher/shubhamaher/blob/master/header.png)-->
 
-<a href="https://rutujakawade.netlify.app/" target="_blank">
+<a href="https://github.com/shubhamaher/shubhamaher/" target="_blank">
  <img align="center" src="https://github.com/shubhamaher/shubhamaher/blob/main/Banner.gif" />
 </a>
 
